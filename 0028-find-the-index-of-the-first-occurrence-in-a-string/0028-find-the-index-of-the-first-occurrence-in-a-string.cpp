@@ -1,34 +1,37 @@
 class Solution {
 public:
-    vector<int>buildlps(string needle)
+   vector<int> buildlps(string needle)
+{
+    int n = needle.size();
+    vector<int> lps(n, 0);
+
+    int len = 0;
+    int j = 1;
+
+    while(j < n)
     {
-        int n=needle.size();
-        vector<int>lps(n,0);
-        int i=0;
-        int j=1;
-        while(j<n)
+        if(needle[len] == needle[j])
         {
-           if(needle[i]==needle[j])
-           {
-             i++;
-             lps[j]=i;
-             j++;
-           }
-           else 
-           {
-            if(i==0)
+            len++;
+            lps[j] = len;
+            j++;
+        }
+        else
+        {
+            if(len == 0)
             {
-                lps[j]=0;
+                lps[j] = 0;
                 j++;
             }
-            else 
+            else
             {
-                i=lps[i-1];
+                len = lps[len - 1];
             }
-           }
         }
-        return lps ;
     }
+
+    return lps;
+}
     int strStr(string haystack, string needle) {
         int n=haystack.size();
         int m=needle.size();
