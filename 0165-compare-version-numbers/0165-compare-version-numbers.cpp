@@ -1,40 +1,47 @@
 class Solution {
 public:
-    // Function to split the version string into tokens
-    vector<string> getTokens(string version) {
-        vector<string> tokens;
-        stringstream ss(version);
-        string token;
-
-        while (getline(ss, token, '.')) {
-            tokens.push_back(token);
-        }
-
-        return tokens;
-    }
-
     int compareVersion(string version1, string version2) {
 
-        vector<string> v1 = getTokens(version1);
-        vector<string> v2 = getTokens(version2);
+        stringstream ss1(version1);
+        stringstream ss2(version2);
 
-        int n = v1.size();
-        int m = v2.size();
+        string token1, token2;
 
-        int i = 0;
+        while (true) {
 
-        while (i < n || i < m) {
+            int num1 = 0;
+            int num2 = 0;
 
-            int a = (i < n) ? stoi(v1[i]) : 0;
-            int b = (i < m) ? stoi(v2[i]) : 0;
+            bool hasToken1 = false;
+            bool hasToken2 = false;
 
-            if (a < b)
+            if (getline(ss1, token1, '.')) {
+                hasToken1 = true;
+                num1 = stoi(token1);
+            } else {
+                hasToken1 = false;
+                num1 = 0;
+            }
+
+            if (getline(ss2, token2, '.')) {
+                hasToken2 = true;
+                num2 = stoi(token2);
+            } else {
+                hasToken2 = false;
+                num2 = 0;
+            }
+
+            if (num1 < num2) {
                 return -1;
-
-            if (a > b)
+            }
+            else if (num1 > num2) {
                 return 1;
+            }
 
-            i++;
+            // If both version strings are completely processed
+            if (hasToken1 == false && hasToken2 == false) {
+                break;
+            }
         }
 
         return 0;
