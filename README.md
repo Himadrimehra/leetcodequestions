@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Himadrimehra/leetcodequestions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Himadrimehra/leetcodequestions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Himadrimehra/leetcodequestions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Himadrimehra/leetcodequestions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Himadrimehra/leetcodequestions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himadrimehra/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Himadrimehra/leetcodequestions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Himadrimehra/leetcodequestions/tree/master/0048-rotate-image) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Himadrimehra/leetcodequestions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
