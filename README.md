@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himadrimehra/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0118-pascals-triangle) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Himadrimehra/leetcodequestions/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/Himadrimehra/leetcodequestions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
