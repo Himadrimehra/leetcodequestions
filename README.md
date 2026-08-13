@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himadrimehra/leetcodequestions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Himadrimehra/leetcodequestions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Himadrimehra/leetcodequestions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Himadrimehra/leetcodequestions/tree/master/0048-rotate-image) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himadrimehra/leetcodequestions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Himadrimehra/leetcodequestions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0242-valid-anagram) |
