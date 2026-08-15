@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Himadrimehra/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Himadrimehra/leetcodequestions/tree/master/0287-find-the-duplicate-number) |
+| [0860-lemonade-change](https://github.com/Himadrimehra/leetcodequestions/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Himadrimehra/leetcodequestions/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Himadrimehra/leetcodequestions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
