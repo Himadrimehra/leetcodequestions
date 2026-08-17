@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Himadrimehra/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Himadrimehra/leetcodequestions/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/Himadrimehra/leetcodequestions/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Himadrimehra/leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Himadrimehra/leetcodequestions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Himadrimehra/leetcodequestions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himadrimehra/leetcodequestions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
