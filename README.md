@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himadrimehra/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Himadrimehra/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himadrimehra/leetcodequestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Himadrimehra/leetcodequestions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Himadrimehra/leetcodequestions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himadrimehra/leetcodequestions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Quicksort
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himadrimehra/leetcodequestions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himadrimehra/leetcodequestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Himadrimehra/leetcodequestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Himadrimehra/leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Himadrimehra/leetcodequestions/tree/master/0232-implement-queue-using-stacks) |
