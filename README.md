@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Himadrimehra/leetcodequestions/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Himadrimehra/leetcodequestions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Himadrimehra/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0686-repeated-string-match](https://github.com/Himadrimehra/leetcodequestions/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Himadrimehra/leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Himadrimehra/leetcodequestions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Himadrimehra/leetcodequestions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Himadrimehra/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Himadrimehra/leetcodequestions/tree/master/0735-asteroid-collision) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Himadrimehra/leetcodequestions/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Himadrimehra/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/Himadrimehra/leetcodequestions/tree/master/0860-lemonade-change) |
 ## Design
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Himadrimehra/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Himadrimehra/leetcodequestions/tree/master/0739-daily-temperatures) |
