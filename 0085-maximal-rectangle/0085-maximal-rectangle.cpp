@@ -25,6 +25,7 @@ public:
         return rightans;
     }
 
+
     vector<int> leftsmaller(vector<int>& heights) {
         stack<int> st;
         int n = heights.size();
@@ -49,6 +50,7 @@ public:
         return leftans;
     }
 
+
     int largestRectangleArea(vector<int>& heights) {
 
         int n = heights.size();
@@ -60,6 +62,7 @@ public:
         for(int i = 0; i < n; i++) {
 
             int width = right[i] - left[i] - 1;
+
             int currentarea = heights[i] * width;
 
             ans = max(ans, currentarea);
@@ -68,32 +71,46 @@ public:
         return ans;
     }
 
+
     int maximalRectangle(vector<vector<char>>& matrix) {
 
-        if(matrix.empty()) return 0;
+        if(matrix.empty()) {
+            return 0;
+        }
 
         int n = matrix.size();
         int m = matrix[0].size();
 
-        vector<int> height(m, 0);
+        // 2D prefix/consecutive-1 array
+        vector<vector<int>> psum(n, vector<int>(m));
+
+        // Calculate vertical consecutive 1s
+        for(int j = 0; j < m; j++) {
+
+            int sum = 0;
+
+            for(int i = 0; i < n; i++) {
+
+                if(matrix[i][j] == '0') {
+                    sum = 0;
+                }
+                else {
+                    sum++;
+                }
+
+                psum[i][j] = sum;
+            }
+        }
 
         int maxarea = 0;
 
+        // Treat every row as a histogram
         for(int i = 0; i < n; i++) {
 
-            // Build histogram for current row
-            for(int j = 0; j < m; j++) {
-
-                if(matrix[i][j] == '1') {
-                    height[j]++;
-                }
-                else {
-                    height[j] = 0;
-                }
-            }
-
-            // Find largest rectangle in current histogram
-            maxarea = max(maxarea, largestRectangleArea(height));
+            maxarea = max(
+                maxarea,
+                largestRectangleArea(psum[i])
+            );
         }
 
         return maxarea;
