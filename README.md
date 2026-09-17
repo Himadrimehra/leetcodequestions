@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himadrimehra/leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Himadrimehra/leetcodequestions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Himadrimehra/leetcodequestions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Himadrimehra/leetcodequestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himadrimehra/leetcodequestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Himadrimehra/leetcodequestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Himadrimehra/leetcodequestions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Himadrimehra/leetcodequestions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Himadrimehra/leetcodequestions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Himadrimehra/leetcodequestions/tree/master/0088-merge-sorted-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Himadrimehra/leetcodequestions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Himadrimehra/leetcodequestions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Himadrimehra/leetcodequestions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Himadrimehra/leetcodequestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himadrimehra/leetcodequestions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0242-valid-anagram) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Himadrimehra/leetcodequestions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Himadrimehra/leetcodequestions/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himadrimehra/leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himadrimehra/leetcodequestions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
