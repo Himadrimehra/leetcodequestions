@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Himadrimehra/leetcodequestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Himadrimehra/leetcodequestions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Himadrimehra/leetcodequestions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Himadrimehra/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Himadrimehra/leetcodequestions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Himadrimehra/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0085-maximal-rectangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Himadrimehra/leetcodequestions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Himadrimehra/leetcodequestions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Himadrimehra/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Himadrimehra/leetcodequestions/tree/master/0085-maximal-rectangle) |
 ## Divide and Conquer
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Himadrimehra/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Himadrimehra/leetcodequestions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
