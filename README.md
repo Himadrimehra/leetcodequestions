@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Himadrimehra/leetcodequestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Himadrimehra/leetcodequestions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Himadrimehra/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himadrimehra/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Himadrimehra/leetcodequestions/tree/master/0735-asteroid-collision) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himadrimehra/leetcodequestions/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Himadrimehra/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Himadrimehra/leetcodequestions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -325,4 +328,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Himadrimehra/leetcodequestions/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himadrimehra/leetcodequestions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
