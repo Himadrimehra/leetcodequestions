@@ -8,15 +8,14 @@ public:
         string ans="";
         for(int i=0;i<m && i<k;i++)
         {
-           if(strs[0][i] == strs[n-1][i])
-        {
-                 ans += strs[0][i];
+          if(strs[0][i]==strs[n-1][i])
+          {
+            ans=ans+strs[0][i];
           }
-          else
-      {
-          break;
-        }
-            
+          else 
+          {
+            break;
+          }
         }
         return ans;
     }
