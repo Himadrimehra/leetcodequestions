@@ -18,19 +18,20 @@ public:
         }
         if(fast==NULL)
         {
-             ListNode* newhead=head->next;
-             delete head;
-             return newhead;
+            ListNode* newhead=head->next;
+         delete head;
+         return newhead;
         }
-         ListNode*slow=head;
+        ListNode*slow=slow=head;
         while(fast->next!=NULL)
         {
             slow=slow->next;
             fast=fast->next;
         }
-         ListNode*deletenode=slow->next;
-         slow->next=deletenode->next;
-         delete deletenode;
-         return head;
+        ListNode* temp=slow->next;
+        slow->next=temp->next;
+        temp->next=NULL;
+        delete temp;
+        return head;
     }
 };
